@@ -1,1 +1,1 @@
-# Vik-vik-s-World
+Vik vik game is a Mario style game. Although it seems outdated, it appeals to people of all ages. Our character aims to neutralize his enemies with a chainsaw, collect gold, and reach the end of the map. You can play as a family to spend quality time. The game's codes are written in C#. We wish you a good game.
