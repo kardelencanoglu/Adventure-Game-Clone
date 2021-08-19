@@ -1,0 +1,164 @@
+[api-updater (non-obsolete-error-filter)] 10.06.2021 22:01:43 : Starting F:/yedek/Yeni klasör (2)/Yeni klasör (3)/2020.3.11f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2007,7683ms
+moved types parse time: 186ms
+candidates parse time : 24ms
+C# parse time         : 1600ms
+candidates check time : 72ms
+console write time    : 13ms
+
+[api-updater (non-obsolete-error-filter)] 11.06.2021 21:10:06 : Starting F:/yedek/Yeni klasör (2)/Yeni klasör (3)/2020.3.11f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2133,0586ms
+moved types parse time: 103ms
+candidates parse time : 18ms
+C# parse time         : 1294ms
+candidates check time : 68ms
+console write time    : 13ms
+
+[api-updater (non-obsolete-error-filter)] 11.06.2021 21:11:27 : Starting F:/yedek/Yeni klasör (2)/Yeni klasör (3)/2020.3.11f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 114,6868ms
+moved types parse time: 63ms
+candidates parse time : 1ms
+C# parse time         : 255ms
+candidates check time : 33ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11.06.2021 21:11:54 : Starting F:/yedek/Yeni klasör (2)/Yeni klasör (3)/2020.3.11f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 170,5017ms
+moved types parse time: 60ms
+candidates parse time : 1ms
+C# parse time         : 252ms
+candidates check time : 36ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 20.06.2021 00:25:37 : Starting F:/yedek/Yeni klasör (2)/Yeni klasör (3)/2020.3.11f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 3335,0975ms
+moved types parse time: 184ms
+candidates parse time : 30ms
+C# parse time         : 1934ms
+candidates check time : 104ms
+console write time    : 5ms
+
+[api-updater (non-obsolete-error-filter)] 20.06.2021 01:14:38 : Starting F:/yedek/Yeni klasör (2)/Yeni klasör (3)/2020.3.11f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from C:\Users\karde\New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <68bff7873e0e4aa69a14dfc30bebbe3e>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1131,9576ms
+moved types parse time: 161ms
+candidates parse time : 3ms
+C# parse time         : 685ms
+candidates check time : 86ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 20.06.2021 01:18:05 : Starting F:/yedek/Yeni klasör (2)/Yeni klasör (3)/2020.3.11f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from C:\Users\karde\New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <68bff7873e0e4aa69a14dfc30bebbe3e>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 257,3114ms
+moved types parse time: 119ms
+candidates parse time : 2ms
+C# parse time         : 456ms
+candidates check time : 100ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 20.06.2021 01:20:50 : Starting F:/yedek/Yeni klasör (2)/Yeni klasör (3)/2020.3.11f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 114,6617ms
+moved types parse time: 72ms
+candidates parse time : 2ms
+C# parse time         : 271ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 20.06.2021 01:30:40 : Starting F:/yedek/Yeni klasör (2)/Yeni klasör (3)/2020.3.11f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 148,6031ms
+moved types parse time: 208ms
+candidates parse time : 4ms
+C# parse time         : 571ms
+candidates check time : 87ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 20.06.2021 01:33:25 : Starting F:/yedek/Yeni klasör (2)/Yeni klasör (3)/2020.3.11f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 132,643ms
+moved types parse time: 84ms
+candidates parse time : 2ms
+C# parse time         : 316ms
+candidates check time : 50ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23.06.2021 14:48:40 : Starting F:/yedek/Yeni klasör (2)/Yeni klasör (3)/2020.3.11f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1678,7223ms
+moved types parse time: 107ms
+candidates parse time : 24ms
+C# parse time         : 1270ms
+candidates check time : 64ms
+console write time    : 9ms
+
+[api-updater (non-obsolete-error-filter)] 23.06.2021 15:19:55 : Starting F:/yedek/Yeni klasör (2)/Yeni klasör (3)/2020.3.11f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 90,2771ms
+moved types parse time: 54ms
+candidates parse time : 2ms
+C# parse time         : 199ms
+candidates check time : 30ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23.06.2021 15:20:30 : Starting F:/yedek/Yeni klasör (2)/Yeni klasör (3)/2020.3.11f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 87,1701ms
+moved types parse time: 54ms
+candidates parse time : 1ms
+C# parse time         : 195ms
+candidates check time : 31ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23.06.2021 16:13:23 : Starting F:/yedek/Yeni klasör (2)/Yeni klasör (3)/2020.3.11f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 100,0475ms
+moved types parse time: 55ms
+candidates parse time : 1ms
+C# parse time         : 197ms
+candidates check time : 29ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 29.06.2021 15:20:00 : Starting F:/yedek/Yeni klasör (2)/Yeni klasör (3)/2020.3.11f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 3435,9122ms
+moved types parse time: 297ms
+candidates parse time : 49ms
+C# parse time         : 1833ms
+candidates check time : 109ms
+console write time    : 6ms
+
